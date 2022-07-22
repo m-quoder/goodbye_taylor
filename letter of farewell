@@ -4,21 +4,25 @@
 The following is a code I created to say goodbye to my dear co-worker-friend, Taylor
 """
 
-who = ('Taylor is ')
-good_co_worker = ('logical, professional, detail-oriented, creates solutions, follows through')
+def farewell() : 
+  who = ('Taylor is ')
+  good_co_worker = ('logical, professional, detail-oriented, creates solutions, and follows through')
+  print(who + good_co_worker)
 
-print(who + good_co_worker)
-Taylor is logical, professional, detail-oriented, creates solutions, follows through
+farewell()
+Taylor is logical, professional, detail-oriented, creates solutions, and follows through
 
 """
 The following in my simple goodbye letter
 """
 
+C:\Users\quicklotz\Downloads> goodbyeletter.txt
 open(goodbye_letter.txt)   
+
 Taylor,
 
 Working with you at Quicklotz has been such a grand experience. 
-Learning from your expertise and logic has been invaluable to me. I truly will miss working with you.
+Learning from your expertise and business mindset has been invaluable to me. I truly will miss working with you.
 If you ever need a friend to have work chats or Charlotte adventures, please email: mariahwylder@gmail.com.
 
 Friend, Mariah 
