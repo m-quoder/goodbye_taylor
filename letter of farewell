@@ -1,0 +1,24 @@
+#Goodbye Taylor
+
+"""
+The following is a code I created to say goodbye to my dear co-friend, Taylor
+""
+
+who = ('Taylor is ')
+good_co_worker = ('logical, professional, detail-oriented, creates solutions, follows through']
+
+print(who + good_co_worker)
+Taylor is logical, professional, detail-oriented, creates solutions, follows through
+
+"""
+The following in my simple goodbye letter
+"""
+
+open(goodbye_letter)   
+Taylor,
+
+Working with you at Quicklotz has been such a grand experience. 
+Learning from your expertise and logic has been invaluable to me. I truly will miss working with you.
+If you ever need a friend to have work chats or drinks, please email: mariahwylder@gmail.com.
+
+Friend, Mariah 
