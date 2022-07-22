@@ -5,7 +5,7 @@ The following is a code I created to say goodbye to my dear co-worker-friend, Ta
 """
 
 who = ('Taylor is ')
-good_co_worker = ('logical, professional, detail-oriented, creates solutions, follows through']
+good_co_worker = ('logical, professional, detail-oriented, creates solutions, follows through')
 
 print(who + good_co_worker)
 Taylor is logical, professional, detail-oriented, creates solutions, follows through
@@ -14,7 +14,7 @@ Taylor is logical, professional, detail-oriented, creates solutions, follows thr
 The following in my simple goodbye letter
 """
 
-open(goodbye_letter)   
+open(goodbye_letter.txt)   
 Taylor,
 
 Working with you at Quicklotz has been such a grand experience. 
