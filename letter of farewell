@@ -5,8 +5,8 @@ The following is a code I created to say goodbye to my dear co-worker-friend, Ta
 """
 
 def farewell() : 
-  who = ('Taylor is ')
-  good_co_worker = ('logical, professional, detail-oriented, creates solutions, and follows through')
+  who = ('Taylor ')
+  good_co_worker = ('is logical, professional, detail-oriented, creates solutions, and follows through')
   print(who + good_co_worker)
 
 farewell()
